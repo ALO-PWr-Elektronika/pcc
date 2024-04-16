@@ -1,4 +1,4 @@
-# Pearson's Correlation Coeffcient
+# Pearson's Correlation Coefficient
 # pip install scipy
 from scipy.stats import pearsonr
 
